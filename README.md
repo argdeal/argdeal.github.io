@@ -1,1 +1,0 @@
-# argdeal.github.io project
